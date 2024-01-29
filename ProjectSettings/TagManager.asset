@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - nen_dat
+  - trai
+  - tren
+  - coin
+  - brick
+  - nenTren
+  - button
+  - top
+  - spike
+  - bat
+  - congdichchuyen
+  - Audio
+  - play1
+  - fall_spike
+  - right
+  - chuyen_man
+  - water
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - background1
+  - background2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background1
+    uniqueID: 2156851245
+    locked: 0
+  - name: background2
+    uniqueID: 2502785567
+    locked: 0
